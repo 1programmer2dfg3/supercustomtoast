@@ -23,7 +23,6 @@
 
 	    /**
 	     * 显示一条Toast
-	     *
 	     * @param msg 消息内容
 	     */
 	    public void show(String msg) {
@@ -86,5 +85,4 @@
 
 
 ##联系方式：
-* [我的微博](http://www.weibo.com/3217119443 "鼠标悬停")
-* [我的博客](http://www.github.io "鼠标悬停")
+* [我的博客](https://www.jianshu.com/u/bc7fdfcf19c8"鼠标悬停")
